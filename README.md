@@ -1,2 +1,9 @@
-# Forkify
-Javascript App made with MVC Pattern and thrid-party API
+## Forkify Food recipe App
+
+Javascript Recipe App
+
+Technologies used: 
+* JS MVC Pattern
+* SASS
+* Third-party API
+
