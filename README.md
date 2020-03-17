@@ -24,8 +24,8 @@ You will need to sign up for an API key at [spoonacular.com](https://spoonacular
 - Babel
 - JavaScript
 - [Fraction.js](https://github.com/infusion/Fraction.js)
-- [Food2Fork API](https://www.food2fork.com/about/api)
+- [Food2Fork API](https://spoonacular.com/food-api)
 
 ## Re-creator
 
-- Tim Acker - [MitHipster](https://github.com/MitHipster)
+- Senadin -
